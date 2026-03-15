@@ -22,10 +22,11 @@
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+  <img src="https://pub-6754bd9df8644a73aa7462b6f3042f84.r2.dev/dise%C3%B1os/images/NOSE.gif" width="400">
 </div>
+
+
 
 <br>
 
@@ -166,15 +167,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500">
-</div>
+
 
 <br>
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming">
-</p>
 
 <br>
 
@@ -198,9 +194,9 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-</div>
+</div> -->
 
 <details><summary><h3> 🔥 Racha de Contribuciones</h3></summary>
 
