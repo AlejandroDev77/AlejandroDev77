@@ -54,7 +54,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Equipo de Desarrollo
 
 <div align="center">
-  <img src="https://pub-6754bd9df8644a73aa7462b6f3042f84.r2.dev/dise%C3%B1os/images/NOSE.gif" width="300">
+  <img src="https://pub-6754bd9df8644a73aa7462b6f3042f84.r2.dev/diseños/images/NOSE.gif" width="300">
 </div>
 
 <br>
