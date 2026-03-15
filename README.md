@@ -12,10 +12,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://pub-6754bd9df8644a73aa7462b6f3042f84.r2.dev/dise%C3%B1os/images/NOSE.gif" width="100">
-  
-</div>
+
 
 <br>
 
@@ -45,6 +42,26 @@
 - :nerd_face: Enfocado en escribir código limpio y escalable
 - :seedling: Actualmente expandiendo mis habilidades en desarrollo web avanzado
 <br>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Equipo de Desarrollo
+
+<div align="center">
+  <img src="https://pub-6754bd9df8644a73aa7462b6f3042f84.r2.dev/dise%C3%B1os/images/NOSE.gif" width="300">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=100px> </picture> Conéctate conmigo
 
