@@ -1,12 +1,20 @@
 <h1 align="center">Hola 👋, soy Alejandro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AlejandroDev77&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=AlejandroDev77&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D9FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack;React+%7C+Angular+%7C+TypeScript;Laravel+%7C+Spring+Boot;Three.js+%7C+Desarrollo+3D;Apasionado+por+la+Innovación;Siempre+Aprendiendo+Nuevas+Tecnologías"></a>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;React+%7C+Angular+%7C+TypeScript;Laravel+%7C+Spring+Boot+%E2%98%95;Three.js+%7C+Desarrollo+3D+%F0%9F%8E%AE;Apasionado+por+la+Innovaci%C3%B3n+%F0%9F%92%A1;Siempre+Aprendiendo+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+</div>
 
 <br>
 
@@ -35,9 +43,10 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=100px> </picture> Conéctate conmigo
 
 <p align="center">
-	<a href="https://github.com/AlejandroDev77"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/alejandrodev77"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="mailto:alejandrodev77@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/AlejandroDev77"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/alejandrodev77"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:alejandrodev77@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://twitter.com/alejandrodev77"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 <br>
@@ -59,97 +68,127 @@
 <p align="center"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
    </a>
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.php.net" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+</div>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo Frontend
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   </a>
   &emsp;
   <a href="https://threejs.org/" target="_blank">
-    <img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=plastic&logo=three.js&logoColor=white">
+    <img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+</div>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Backend & Bases de Datos
 <p align="center">
   &emsp;
-    <a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"></a>
+    <a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
   &emsp;
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   &emsp;
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
-    <a href="#"><img alt="API REST" src="https://img.shields.io/badge/API%20REST-%23009688.svg?style=plastic&logo=fastapi&logoColor=white"></a>
+    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+</div>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Herramientas & Software
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
+    <a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white"></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"></a>
+    <a href="https://vitejs.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+</div>
 
 <br> 
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 </div>
 
 <br>
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 <br>
@@ -168,11 +207,21 @@
 
 <br>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=AlejandroDev77&label=Visitas+al+Perfil&color=00F7F7&style=for-the-badge" alt="AlejandroDev77"/> 
+</p>
+
 <details><summary><h3> 🔥 Racha de Contribuciones</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDev77&theme=tokyonight_duo" alt="AlejandroDev77" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDev77&theme=neon-dark&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF00FF&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=FF00FF&sideLabels=00F7F7" alt="AlejandroDev77" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
+</div>
 
 </details>
   
@@ -182,28 +231,40 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="AlejandroDev77's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlejandroDev77&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroDev77&langs_count=10&show_icons=true&locale=es&theme=tokyonight" alt="AlejandroDev77" height="230px"/>
+	    <img alt="AlejandroDev77's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlejandroDev77&show_icons=true&count_private=true&locale=es&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF00FF&text_color=FFFFFF" height="200px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroDev77&langs_count=10&show_icons=true&locale=es&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="AlejandroDev77" height="200px"/>
 <br/>
 
   <b>Nota:</b> Los lenguajes más usados solo reflejan las métricas de mi código público y no representan mi experiencia o nivel de habilidad.
   </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
+</div>
+
 </details>
 
 <details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
 
 ----
 	
-[![AlejandroDev77's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlejandroDev77&theme=github)](https://github.com/AlejandroDev77/github-readme-activity-graph)
+[![AlejandroDev77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroDev77&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- 
 </details>
 
 <details><summary> <h3> :trophy: Trofeos del Perfil de Git </h3></summary>
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlejandroDev77&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AlejandroDev77" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlejandroDev77&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="AlejandroDev77" />
+  </a> 
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="80" />
+</div>
 	
 </details>
 	
@@ -244,19 +305,13 @@
 </br></br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-	
-## 🐍 Una Serpiente Comiendo mi Gráfico de Contribuciones
-	
-<p align = "center">
-	<img src = "https://github.com/AlejandroDev77/AlejandroDev77/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
 </div>
 
 <br>
@@ -264,5 +319,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
 </div>
