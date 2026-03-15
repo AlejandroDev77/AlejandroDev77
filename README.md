@@ -13,7 +13,18 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </div>
 
 <br>
@@ -156,7 +167,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500">
 </div>
 
 <br>
@@ -185,6 +196,12 @@
 	<img src="https://komarev.com/ghpvc/?username=AlejandroDev77&label=Visitas+al+Perfil&color=00F7F7&style=for-the-badge" alt="AlejandroDev77"/> 
 </p>
 
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+</div>
+
 <details><summary><h3> 🔥 Racha de Contribuciones</h3></summary>
 
 ----	
@@ -208,8 +225,6 @@
 	    <img alt="AlejandroDev77's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlejandroDev77&show_icons=true&count_private=true&locale=es&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF00FF&text_color=FFFFFF" height="200px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroDev77&langs_count=10&show_icons=true&locale=es&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="AlejandroDev77" height="200px"/>
 <br/>
-
-  <b>Nota:</b> Los lenguajes más usados solo reflejan las métricas de mi código público y no representan mi experiencia o nivel de habilidad.
   </p>
 
 <div align="center">
@@ -285,7 +300,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
 </div>
 
 <br>
